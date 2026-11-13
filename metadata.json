@@ -1,0 +1,6 @@
+{
+  "name": "ArizoTek — IT Automation for Small to Mid-Size Businesses",
+  "description": "Modern AI and IT automation solutions website prototype for ArizoTek, featuring workflow demonstrations, service capabilities, and consultation inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
